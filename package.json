@@ -1,0 +1,11 @@
+{
+  "name": "color-dark-light",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yasintazeoglu/dark-light.git"
+  },
+  "homepage": "https://github.com/yasintazeoglu/dark-light"
+}

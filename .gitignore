@@ -1,0 +1,9 @@
+node_modules/
+using.js
+dist/
+package-lock.json
+yarn.lock
+allinone.js
+.vscode
+.npmignore.json
+p.json
