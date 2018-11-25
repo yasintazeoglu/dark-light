@@ -37,7 +37,7 @@ cdl("#a1", "gray");
 */
 ```
 
-#### There digit hex code
+#### Three digit hex code
 
 ```js
 const cdl = require("color-dark-light"); //or using import
